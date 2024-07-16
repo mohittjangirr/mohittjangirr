@@ -1,5 +1,9 @@
 # 💫 About Me:
-👨‍💻 Greetings! I'm Mohit, a web-wrangling MCA student on a mission to turn caffeine into code.<br>🌐 I specialize in transforming wild ideas into web wonders, because who needs reality TV when you have HTML?<br>🎨 Crafting user interfaces smoother than a fresh cup of java—design is my digital dance.<br>🚀 Launching projects into cyberspace with the precision of a SpaceX engineer, minus the rocket science.<br>😴 When not coding, I'm recharging my brain cells with power naps, because even geniuses need their beauty sleep.<br>🎮 Catch me leveling up in RPGs or plotting my next chess victory—I like my strategies as sharp as my code.<br>🌟 Dedicated to open-source and spreading joy through clean, efficient, and occasionally quirky code.<br>
+Hey there! I'm Mohit, a caffeine-fueled MCA student on a coding odyssey.<br>
+Currently mastering the MCA realm at MIT World Peace University.<br>
+Graduated from SS Jain Subodh College, Jaipur, with battle scars (and a degree!).<br>
+Stealthily engineering a movie streaming platform because who needs sleep when movies await?
+
 
 
 ## 🌐 Socials:
